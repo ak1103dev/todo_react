@@ -1,0 +1,5 @@
+{
+	"name": "todo",
+	"main": "views.js",
+	"private": true
+}
